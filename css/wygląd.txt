@@ -1,0 +1,5 @@
+font-awesome  tutaj sa ikonki android itd
+
+booststrap i main wyglad
+
+rwd

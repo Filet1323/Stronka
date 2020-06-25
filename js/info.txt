@@ -1,0 +1,3 @@
+jquery.prettyPhoto.js  -  zdjęcia obracanie , ściąganie do kupy
+
+jquery - biblioteka
